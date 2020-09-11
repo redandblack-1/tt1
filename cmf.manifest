@@ -1,4 +1,6 @@
 CACHE MANIFEST
 # Resources to cache – it is a comment
 CACHE:
-HTML5.html Images/Animated_fire.gif Images/WaterfallAnimatedGif.gif
+index.html 
+Images/Animated_fire.gif 
+Images/WaterfallAnimatedGif.gif
